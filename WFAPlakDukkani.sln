@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFAPlakDukkani.UI", "WFAPlakDukkani.UI\WFAPlakDukkani.UI.csproj", "{38936DEA-A6B1-4447-9E79-A60245903E57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38936DEA-A6B1-4447-9E79-A60245903E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38936DEA-A6B1-4447-9E79-A60245903E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38936DEA-A6B1-4447-9E79-A60245903E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38936DEA-A6B1-4447-9E79-A60245903E57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94B4EE95-5BC3-4A43-B5E0-A237F79A8AC5}
+	EndGlobalSection
+EndGlobal
